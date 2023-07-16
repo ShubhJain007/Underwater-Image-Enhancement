@@ -1,21 +1,16 @@
 # underwater-image-enhancement
 ## Abstract
-Underwater images find application in various fields, like marine research, inspection of
-aquatic habitat, underwater surveillance, identification of minerals, and more. However,
-underwater shots are affected a lot during the acquisition process due to the absorption
-and scattering of light. As depth increases, longer wavelengths get absorbed by water;
-therefore, the images appear predominantly bluish-green, and red gets absorbed due to
-higher wavelength. These phenomenons result in significant degradation of images due to
-which images have low contrast, color distortion, and low visibility. Hence, underwater
-images need enhancement to improve the quality of images to be used for various
-applications while preserving the valuable information contained in them.
+
+Underwater images have diverse applications across fields such as marine research, aquatic habitat inspection, underwater surveillance, mineral identification, and more. However, the process of acquiring underwater shots is subject to considerable challenges stemming from light absorption and scattering. As the depth increases, water absorbs longer wavelengths, resulting in a predominant bluish-green appearance, while higher wavelengths, including red, are heavily absorbed. Consequently, underwater images often suffer from degradation, exhibiting low contrast, color distortion, and limited visibility. To utilize these images effectively for various applications while retaining their valuable information, it becomes imperative to enhance their quality through image enhancement techniques.
+
+The collaborative efforts and open-source contributions of other developers are sincerely appreciated for their invaluable support in advancing the field of underwater image enhancement.
 
 ## Block Diagram 
-![block_diagram](https://github.com/pranjalibajpai/underwater-image-enhancement/blob/main/images/block_diagram.png)
+![block_diagram](https://github.com/ShubhJain007/Underwater-Image-Enhancement/blob/main/images/block_diagram.png)
 
 ## Results
-![block_diagram](https://github.com/pranjalibajpai/underwater-image-enhancement/blob/main/images/result1.PNG)
-![block_diagram](https://github.com/pranjalibajpai/underwater-image-enhancement/blob/main/images/result2.PNG)
+![block_diagram](https://github.com/ShubhJain007/Underwater-Image-Enhancement/blob/main/images/result1.PNG)
+<!-- ![block_diagram](https://github.com/ShubhJain007/Underwater-Image-Enhancement/blob/main/images/result2.PNG) -->
 
 
 
